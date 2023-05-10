@@ -57,7 +57,6 @@ python3 manage.py runserver
 - Django
 - DRF
 - SQLite
-- 
 ### Примеры
 Документация с примерами приведена по адресу: http://127.0.0.1:8000/redoc/
 
